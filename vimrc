@@ -1,5 +1,8 @@
 set number
 
+set wildmenu
+set wildmode=list:full
+
 set incsearch
 set hlsearch
 
