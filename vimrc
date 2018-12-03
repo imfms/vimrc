@@ -1,8 +1,9 @@
-set number
+set history=1000
 
 set wildmenu
 set wildmode=list:full
 
+set number
 set incsearch
 set hlsearch
 
