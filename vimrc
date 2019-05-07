@@ -72,7 +72,7 @@ Plug 'haya14busa/incsearch-easymotion.vim'
       \ }), get(a:, 1, {}))
     endfunction
     noremap <silent><expr> <Space>/ incsearch#go(<SID>config_easyfuzzymotion())
-
+Plug 'terryma/vim-multiple-cursors'
 " ---
 " Initialize plugin system
 call plug#end()
